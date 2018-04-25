@@ -21,8 +21,8 @@
       <file leaf-file-name="Zadanie1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            <state relative-caret-position="833">
+              <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -57,10 +57,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="25" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="101" />
+    <option name="y" value="24" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524654671166</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="wer. 0.22">
+      <created>1524655442978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524655442978</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -321,7 +328,8 @@
     <MESSAGE value="Pliki wer.: 0.0" />
     <MESSAGE value="Pliki wer.: 0.1" />
     <MESSAGE value="Pliki wer. 0.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pliki wer. 0.2" />
+    <MESSAGE value="wer. 0.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="wer. 0.22" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -366,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="833">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
         </state>
       </provider>
     </entry>
