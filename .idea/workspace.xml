@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9716689-1bae-41ac-a658-b5d4db0bfedb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/AlgorytmySortowaniePart2/AlgorytmySortowaniePart2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,38 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Zadanie1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
+      <file leaf-file-name="SortBubble.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zadanie1Maciek.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1Maciek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zadanie2Maciek.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Zadanie2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="1564">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
         </entry>
@@ -71,6 +46,9 @@
       <list>
         <option value="$PROJECT_DIR$/AlgorytmyPart1/src/Zadanie1.java" />
         <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java" />
+        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java" />
+        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java" />
+        <option value="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" />
       </list>
     </option>
   </component>
@@ -114,6 +92,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorytmyDay1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorytmySortDay2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -124,7 +120,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SDA" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -298,7 +294,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524666968818</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="wer. 4,0">
+      <created>1524727630016</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1524727630016</updated>
+    </task>
+    <task id="LOCAL-00011" summary="wer. 4,0">
+      <created>1524730883535</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1524730883535</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,6 +468,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1Maciek.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -467,22 +491,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
+    <entry file="file://$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="1564">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
