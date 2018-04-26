@@ -4,6 +4,7 @@ public class Zadanie2 {
     public static void main(String[] args) {
 
         // narysować figury ze slajdu 9
+
         drawTriangle(6);
         System.out.println();
         drawDiagonalLine(6);
@@ -12,6 +13,7 @@ public class Zadanie2 {
     }
 
     // rysowanie trójkąta
+
     private static void drawTriangle(int height) {
         for (int i = 0; i < height; i++) {
             for (int j = 0; j <= i; j++) {
@@ -22,6 +24,7 @@ public class Zadanie2 {
     }
 
     // rysowanie ukośnej linii
+
     private static void drawDiagonalLine(int height) {
         for (int i = 0; i < height; i++) {
             for (int j = 0; j <= i; j++) {
@@ -32,6 +35,7 @@ public class Zadanie2 {
     }
 
     // rysowanie kwadratu
+
     private static void drawSquare(int height) {
         for (int i = 0; i < height; i++) {
             System.out.print('*');
