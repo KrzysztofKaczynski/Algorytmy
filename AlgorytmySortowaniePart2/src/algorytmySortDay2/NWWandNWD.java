@@ -1,3 +1,4 @@
+/*
 package algorytmySortDay2;
 
 public class NWWandNWD {
@@ -31,3 +32,4 @@ public class NWWandNWD {
             }
         }
     }
+*/
