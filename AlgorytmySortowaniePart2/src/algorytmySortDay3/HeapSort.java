@@ -25,6 +25,7 @@ public class HeapSort {
         }
         if (maxIndex != parentIndex){
             SortUtils.swap(array, heapSize, parentIndex);
+            validateMaxHeap(array, heapSize, maxIndex);
         }
     }
 }
