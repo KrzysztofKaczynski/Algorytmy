@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9716689-1bae-41ac-a658-b5d4db0bfedb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgorytmySortowaniePart2/AlgorytmySortowaniePart2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" afterDir="false" />
+    <list default="true" id="3b898ac6-086a-480d-bcaa-541257f1fd82" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/ProgramowanieStrukturyDanych.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorytmy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorytmy.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +21,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortBubble.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java">
+      <file leaf-file-name="Stos.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="-2784">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/StackExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -44,19 +65,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/Zadanie1.java" />
-        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java" />
-        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java" />
-        <option value="$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java" />
-        <option value="$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/StackExample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="-72" />
+    <option name="width" value="938" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,59 +93,41 @@
             <path>
               <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmyPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmyPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmyPart1" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorytmyDay1" type="462c0819:PsiDirectoryNode" />
+              <item name="stos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="AlgorytmySortowaniePart2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorytmySortDay2" type="462c0819:PsiDirectoryNode" />
+              <item name="stos" type="462c0819:PsiDirectoryNode" />
+              <item name="Stos.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SDA" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JavaProjekty\Algorytmy\AlgorytmyPart1\src" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -143,27 +141,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadanie1 (1)">
-    <configuration name="Zadanie1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorytmyDay1.Zadanie1" />
-      <module name="AlgorytmyPart1" />
+  <component name="RunManager" selected="Application.StackExample">
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stos.StackExample" />
+      <module name="ProgramowanieStrukturyDanych" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorytmyDay1.*" />
+          <option name="PATTERN" value="stos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="algorytmyDay1.Zadanie1" />
-      <module name="Algorytmy" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="Stos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stos.Stos" />
+      <module name="ProgramowanieStrukturyDanych" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorytmyDay1.*" />
+          <option name="PATTERN" value="stos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,13 +206,13 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Zadanie1" />
-      <item itemvalue="Application.Zadanie1 (1)" />
+      <item itemvalue="Application.Stos" />
+      <item itemvalue="Application.StackExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zadanie1 (1)" />
-        <item itemvalue="Application.Zadanie1" />
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.Stos" />
       </list>
     </recent_temporary>
   </component>
@@ -225,110 +221,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9716689-1bae-41ac-a658-b5d4db0bfedb" name="Default" comment="" />
-      <created>1524605802290</created>
+      <changelist id="3b898ac6-086a-480d-bcaa-541257f1fd82" name="Default" comment="" />
+      <created>1525708989000</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524605802290</updated>
+      <updated>1525708989000</updated>
     </task>
-    <task id="LOCAL-00001" summary="Pliki wer.: 0.0">
-      <created>1524607032258</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1524607032258</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Pliki wer. 0.2">
-      <created>1524654671166</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1524654671166</updated>
-    </task>
-    <task id="LOCAL-00003" summary="wer. 0.22">
-      <created>1524655442978</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1524655442978</updated>
-    </task>
-    <task id="LOCAL-00004" summary="wer.3.0">
-      <created>1524664862786</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1524664862786</updated>
-    </task>
-    <task id="LOCAL-00005" summary="wer. 3.1">
-      <created>1524665727397</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1524665727397</updated>
-    </task>
-    <task id="LOCAL-00006" summary="wer. 3.1">
-      <created>1524666287944</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666287944</updated>
-    </task>
-    <task id="LOCAL-00007" summary="wer. 4,0">
-      <created>1524666532211</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666532211</updated>
-    </task>
-    <task id="LOCAL-00008" summary="wer. 4,0">
-      <created>1524666848859</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666848859</updated>
-    </task>
-    <task id="LOCAL-00009" summary="wer. 4,0">
-      <created>1524666968818</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1524666968818</updated>
-    </task>
-    <task id="LOCAL-00010" summary="wer. 4,0">
-      <created>1524727630016</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1524727630016</updated>
-    </task>
-    <task id="LOCAL-00011" summary="wer. 4,0">
-      <created>1524730883535</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1524730883535</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32954547" />
-      <window_info anchor="right" id="Run" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.4806071" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
-      <window_info id="Learn" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16717096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -336,238 +253,76 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49946696" visible="true" weight="0.32928178" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" visible="true" weight="0.3297414" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pliki wer.: 0.0" />
-    <MESSAGE value="Pliki wer.: 0.1" />
-    <MESSAGE value="Pliki wer. 0.2" />
-    <MESSAGE value="wer. 0.22" />
-    <MESSAGE value="wer. 4,0" />
-    <option name="LAST_COMMIT_MESSAGE" value="wer. 4,0" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="969">
+          <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1Maciek.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        <state relative-caret-position="1003">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java">
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-2784">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/StackExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie1Maciek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmyPart1/src/algorytmyDay1/Zadanie2Maciek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgorytmySortowaniePart2/src/algorytmySortDay2/SortBubble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Algorytmy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algorytmy.iml" filepath="$PROJECT_DIR$/.idea/Algorytmy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AlgorytmyPart1/AlgorytmyPart1.iml" filepath="$PROJECT_DIR$/AlgorytmyPart1/AlgorytmyPart1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AlgorytmySortowaniePart2/AlgorytmySortowaniePart2.iml" filepath="$PROJECT_DIR$/AlgorytmySortowaniePart2/AlgorytmySortowaniePart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorytmy.iml" filepath="$PROJECT_DIR$/Algorytmy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/ProgramowanieStrukturyDanych.iml" filepath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/ProgramowanieStrukturyDanych.iml" />
     </modules>
   </component>
 </project>
