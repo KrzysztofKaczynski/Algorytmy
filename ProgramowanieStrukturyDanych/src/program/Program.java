@@ -15,7 +15,9 @@ public class Program {
         while (true) {
             myVar = new Scanner(System.in);
             input = myVar.nextLine();
-            if ("quit".equals(input)) break;
+            if ("quit".equals(input)) {
+                break;
+            }
             Digest digest = new Digest();
             System.out.println("After run: " + digest.run(input));
             System.out.println("============================================");
