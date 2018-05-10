@@ -20,7 +20,14 @@ public class DynamicList implements List {
 
     @Override
     public ListElement get(int index) {
-        return null;
+        if (index >= size) {
+            return null;
+        }
+        ListElement element = first;
+        while (index-- > 0) {
+            element = element.getNext();
+        }
+        return element;
     }
 
     @Override
@@ -33,8 +40,8 @@ public class DynamicList implements List {
             last.setNext(element);
             last = last.getNext();
         }
+        size++;
 
-//        size++;
 //        if(size == 1) {
 //            last = element;
 //        } else if(size == 2) {
