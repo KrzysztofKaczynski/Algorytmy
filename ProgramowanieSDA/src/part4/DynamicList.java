@@ -56,11 +56,27 @@ public class DynamicList implements List {
 
     @Override
     public void remove(int index) {
+        if (first == null){
+            if (last == null){
+                first = null;
+                last = null;
+            }
+        }else {
+            first = first.getNext();
+            first.getNext();
 
+
+        }
     }
 
     @Override
     public int size() {
+        int size = 0;
+        ListElement element = first;
+        while (element != null){
+            size++;
+            element = element.getNext();
+        }
         return this.size;
     }
 }
