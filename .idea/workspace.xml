@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b898ac6-086a-480d-bcaa-541257f1fd82" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java" afterDir="false" />
+    <list default="true" id="3b898ac6-086a-480d-bcaa-541257f1fd82" name="Default" comment=" Dodanie przykladow list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorytmy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorytmy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieSDA/src/pesel/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieSDA/src/pesel/PeselValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/Console.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/Pesel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/PeselValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/peselInfo/Pesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/peselInfo/Pesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/zrodloPesel/Pesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/zrodloPesel/Pesel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,57 +20,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="Pesel.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel1/Pesel.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="272">
+                    <caret line="16" column="57" selection-start-line="15" selection-start-column="12" selection-end-line="18" selection-end-column="61" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stos.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeselValidator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/PeselValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosPrzyklady/StackExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Program.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +72,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -91,13 +83,38 @@
         <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java" />
         <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/Program.java" />
         <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosTomasz/Stack___ReverseStack.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/part4/List___add____get____remove____showAll__.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Lista.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/ListaDM.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Wezel.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/doubleLinkedList/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/Main.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/PeselValidator.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/Console.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/peselInfo/Pesel.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/zrodloPesel/Pesel.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoKrzyzyk/KolkoKrzyzyk.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/KolkoIKrzyzyk.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/Element.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/ElementsListener.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/ticTacToe/TicTacToeAI.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/ticTacToe/Demo.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/part4/DynamicList.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel/Pesel.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/pesel/PeselValidator.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/pesel/Main.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/pesel1/Main.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/Main.java" />
+        <option value="$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/PeselValidator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-72" />
-    <option name="width" value="938" />
-    <option name="height" value="788" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,6 +125,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,6 +141,19 @@
             <path>
               <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieSDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramowanieSDA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="peselSDA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
               <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -130,54 +161,27 @@
               <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
               <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="program" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stos" type="462c0819:PsiDirectoryNode" />
-              <item name="Stos.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stosPrzyklady" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorytmy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorytmy" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgramowanieStrukturyDanych" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stosSoloLearn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProjekty\Algorytmy\ProgramowanieSDA\src\part4" />
+      <recent name="E:\JavaProjekty\Algorytmy\ProgramowanieStrukturyDanych\src\stosTomasz" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pesel" />
+      <recent name="listaDwustronnaDwukierunkowa" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,58 +195,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stosSoloLearn.Node" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ticTacToe.Demo" />
       <module name="ProgramowanieStrukturyDanych" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stosSoloLearn.*" />
+          <option name="PATTERN" value="ticTacToe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="program.Program" />
+    <configuration name="KolkoIKrzyzyk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kolkoikrzyzyk.KolkoIKrzyzyk" />
       <module name="ProgramowanieStrukturyDanych" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="program.*" />
+          <option name="PATTERN" value="kolkoikrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StackExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stosPrzyklady.StackExample" />
+    <configuration name="KolkoKrzyzyk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kolkoKrzyzyk.KolkoKrzyzyk" />
       <module name="ProgramowanieStrukturyDanych" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stosPrzyklady.*" />
+          <option name="PATTERN" value="kolkoKrzyzyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stos.StackExample" />
-      <module name="ProgramowanieStrukturyDanych" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="peselSDA.Main" />
+      <module name="Algorytmy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stos.*" />
+          <option name="PATTERN" value="peselSDA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Stos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stos.Stos" />
+    <configuration name="Uruchom (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zrodloPesel.Uruchom" />
       <module name="ProgramowanieStrukturyDanych" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stos.*" />
+          <option name="PATTERN" value="zrodloPesel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +293,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Stos" />
-      <item itemvalue="Application.StackExample" />
-      <item itemvalue="Application.StackExample (1)" />
-      <item itemvalue="Application.Node" />
-      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.Uruchom (1)" />
+      <item itemvalue="Application.KolkoKrzyzyk" />
+      <item itemvalue="Application.KolkoIKrzyzyk" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Node" />
-        <item itemvalue="Application.StackExample (1)" />
-        <item itemvalue="Application.StackExample" />
-        <item itemvalue="Application.Stos" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.KolkoIKrzyzyk" />
+        <item itemvalue="Application.KolkoKrzyzyk" />
+        <item itemvalue="Application.Uruchom (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -316,53 +320,308 @@
       <option name="presentableId" value="Default" />
       <updated>1525708989000</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dodanie przykladow">
+      <created>1525781674490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525781674490</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" Dodanie przykladow list">
+      <created>1525852924329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525852924329</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ListDwustronna">
+      <created>1525864966594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525864966594</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" Zmiany w dynList i main">
+      <created>1525929028420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525929028420</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Dodanie przykladow sprawdzania Pesel">
+      <created>1525945096994</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525945096994</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" Dodanie przykladow kolko i krzyzyk">
+      <created>1525947721297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525947721297</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" Dodanie przykladow list">
+      <created>1525953521189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525953521189</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pesel zajecia SDA">
+      <created>1526021649884</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526021649884</updated>
+    </task>
+    <task id="LOCAL-00009" summary="proba pesel">
+      <created>1526033071986</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526033071986</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32928178" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.47955802" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32928178" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Run" order="9" weight="0.31449893" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" visible="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32928178" />
       <window_info id="Learn" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" visible="true" weight="0.3297414" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="0" side_tool="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection Results" order="1" sideWeight="0.49946696" visible="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="1" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="2" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.31449893" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="1" sideWeight="0.49946696" visible="true" weight="0.32928178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32928178" />
+      <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="1" side_tool="true" weight="0.32995737" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32928178" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32928178" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dodanie przykladow" />
+    <MESSAGE value="ListDwustronna" />
+    <MESSAGE value=" Zmiany w dynList i main" />
+    <MESSAGE value=" Dodanie przykladow sprawdzania Pesel" />
+    <MESSAGE value=" Dodanie przykladow kolko i krzyzyk" />
+    <MESSAGE value=" Dodanie przykladow list" />
+    <MESSAGE value="Pesel zajecia SDA" />
+    <MESSAGE value="proba pesel" />
+    <option name="LAST_COMMIT_MESSAGE" value="proba pesel" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/ListaDM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
+          <folding>
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2342#2343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Wezel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosPrzyklady/StackExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/polimorfizm/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/ListElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/DynamicList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosPrzyklady/StackExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -370,20 +629,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java" />
     <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stos/Stos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="34">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,29 +650,214 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosSoloLearn/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="1496">
           <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/polimorfizm/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/stosTomasz/Stack___ReverseStack.java" />
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/List___add____get____remove____showAll__.java" />
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/ListElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/ListaDM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="88" column="45" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+            <element signature="e#2342#2343#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/program/Program.java">
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/doubleLinkedList/DoubleLinkedList.java" />
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoKrzyzyk/KolkoKrzyzyk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2652">
+          <caret line="156" column="12" selection-start-line="156" selection-start-column="12" selection-end-line="156" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/ElementsListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="225" column="20" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/TicTacToeAI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3069">
+          <caret selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/ticTacToe/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/ticTacToe/TicTacToeAI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/kolkoikrzyzyk/KolkoIKrzyzyk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/part4/DynamicList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/listaDwustronnaDwukierunkowa/Wezel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/zrodloPesel/Pesel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel1/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/peselInfo/Pesel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="228" column="27" selection-start-line="228" selection-start-column="27" selection-end-line="228" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel1/Pesel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="57" selection-start-line="15" selection-start-column="12" selection-end-line="18" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieStrukturyDanych/src/pesel1/PeselValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramowanieSDA/src/peselSDA/PeselValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -427,6 +865,17 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>

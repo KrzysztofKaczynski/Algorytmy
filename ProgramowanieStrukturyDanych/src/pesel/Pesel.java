@@ -17,10 +17,9 @@ public class Pesel {
             System.out.println("Miesiąc urodzenia: " + PeselVal.getBirthMonth());
             System.out.println("Dzień urodzenia: " + PeselVal.getBirthDay());
             System.out.println("Płeć: " + PeselVal.getSex());
-        }
-        else {
+        } else {
             System.out.println("Numer PESEL jest nieprawidłowy");
         }
     }
-
 }
+
