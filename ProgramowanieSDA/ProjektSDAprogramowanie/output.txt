@@ -1,0 +1,3 @@
+Klucz: r Value: 4
+Klucz: e Value: 2
+Klucz: f Value: 4
